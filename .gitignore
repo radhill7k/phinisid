@@ -1,0 +1,5 @@
+.cache/*
+*.egg-info/*
+env/*
+env2/*
+env3/*
