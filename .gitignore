@@ -58,6 +58,7 @@ kivy.deps*
 kivy/version.py
 
 MANIFEST
+MANIFEST.in
 
 kivy/core/image/img_imageio.c
 kivy/core/audio/audio_sdl2.c
